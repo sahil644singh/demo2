@@ -3,3 +3,7 @@
 
  # demo
     pushing with just git push cause setup the -u earlier 
+
+# branching
+    checking different branching strategies
+    
